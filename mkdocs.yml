@@ -61,7 +61,7 @@ repo_name: abrugiere/test
 nav:
   - Accueil: 'index.md'
   - :fontawesome-solid-circle-info: Intro: '0.0.INTRO.md'
-  - Rappels de 1ère: '0.1.PREM.md'
+  - :fontawesome-solid-bell:Rappels de 1ère: '0.1.PREM.md'
   - Structures de données: '1.0.STRUCT.md'
   - Bases de données: '2.0.BDD.md'
   - Architecture: '3.0.ARCHI.md'
