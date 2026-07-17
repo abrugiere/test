@@ -57,3 +57,14 @@ copyright:  CC BY-SA / C. Arduini
 repo_url: https://github.com/abrugiere/test
 
 repo_name: abrugiere/test
+
+nav:
+  - Accueil: 'index.md'
+  - Intro: '0.0.INTRO.md'
+  - Rappels de 1ère: '0.1.PREM.md'
+  - Structures de données: '1.0.STRUCT.md'
+  - Bases de données: '2.0.BDD.md'
+  - Architecture: '3.0.ARCHI.md'
+  - Programmation: '4.0.LANG.md'
+  - Algorithmique: '5.0.ALGO.md'
+  - Révisions: '6.0.REV.md'
