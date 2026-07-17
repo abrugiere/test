@@ -1,6 +1,6 @@
 site_name: Numérique et Sciences Informatiques Terminale
 theme:
- name: material
+ name: readthedocs
  features:
     - navigation.tabs
     - navigation.sections
